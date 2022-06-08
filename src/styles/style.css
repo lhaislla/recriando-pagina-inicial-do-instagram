@@ -109,7 +109,6 @@
     width:100%;
     padding: 1rem 0;
   }
-  
   .download{
     display: flex;
     width:100%;
@@ -117,17 +116,14 @@
     align-items:center;
     padding:1rem;
   }
-  
   .app-download{
     height: 3rem;
     width: 10rem;
     background-size: cover;
     margin-bottom:20px;
   }
-  
   .app-download:nth-child(1){
     background-image: url('../assets/apple-button.jpg');
-    
   }
   
   .app-download:nth-child(2){
