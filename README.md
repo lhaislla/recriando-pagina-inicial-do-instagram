@@ -1,6 +1,8 @@
 <h1 align="center"> Recriando a pagina inicial do instagram </h1>
 <p>Projeto Dio Innovation</p>
-![alt text](/principal.png)
+<div align="center">
+img src="https://user-images.githubusercontent.com/19829603/172739201-622d4e27-e96f-4360-9fbd-735d532297cf.png" width="0px" /
+</div>
 
 <p>Projeto feito pela digital innovation one focado em: HTML5 e CSS3. </p>
 <p>
